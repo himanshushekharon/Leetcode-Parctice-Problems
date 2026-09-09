@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2270-number-of-ways-to-split-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2270-number-of-ways-to-split-array) |
 | [2404-most-frequent-even-element](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1991-find-the-middle-index-in-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
