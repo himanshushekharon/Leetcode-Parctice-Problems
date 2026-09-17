@@ -3,14 +3,14 @@ public:
     double findMaxAverage(vector<int>& nums, int k) {
         int n=nums.size();
         int sum=0;
-        for(int i=0;i<k;i++) sum+=nums[i];
-        int ans=sum;
-        int j=0;
-        for(int i=k;i<n;i++){
-            sum=sum-nums[j]+nums[i];
-            ans=max(ans,sum);
-            j++;
+        for(int i=0;i<k;i++){
+            sum+=nums[i];
         }
-        return (ans+0.0)/k;
+        int mx=sum;
+        for(int i=0;i<n-k;i++){
+            sum=sum-nums[i]+nums[i+k];
+            mx=max(mx,sum);
+        }
+        return mx/(k*1.0);
     }
 };
