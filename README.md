@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3524-find-x-value-of-array-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3524-find-x-value-of-array-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
