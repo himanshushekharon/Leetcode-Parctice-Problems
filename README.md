@@ -503,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/himanshushekharon/75DaysLeetCodeChallenge/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
